@@ -59,8 +59,8 @@ The dataset includes ship operations data with features such as:
 
 ## Results
 - **Best Model Performance:**
-  - Random Forest for fuel consumption prediction: R² = 0.9937
-  - Stacked model for CO2 emissions prediction: R² = 0.9321
+  - Random Forest for fuel consumption prediction: R² = 0.9321
+  - Stacked model for CO2 emissions prediction: R² = 0.9937
 - **Route Optimization:**
   - Q-learning recommended routes with the highest fuel efficiency and lowest emissions.
 
