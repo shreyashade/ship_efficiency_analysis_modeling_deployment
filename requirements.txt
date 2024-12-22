@@ -1,0 +1,10 @@
+numpy==1.24.4
+pandas==1.5.3
+scikit-learn==1.2.2
+xgboost==1.7.6
+lightgbm==3.3.5
+tensorflow==2.13.0
+matplotlib==3.7.2
+seaborn==0.12.2
+statsmodels==0.14.0
+prophet==1.1.1
